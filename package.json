@@ -195,7 +195,7 @@
     "redux-thunk": "^2.3.0",
     "requirejs": "^2.3.6",
     "reselect": "^3.0.1",
-    "rpc-cap": "^3.2.1",
+    "rpc-cap": "^4.0.0",
     "safe-event-emitter": "^1.0.1",
     "ses": "^0.12.4",
     "single-call-balance-checker-abi": "^1.0.0",
