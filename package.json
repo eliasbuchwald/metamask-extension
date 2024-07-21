@@ -193,7 +193,7 @@
     "readable-stream": "^2.3.3",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "requirejs": "^2.3.6",
+    "requirejs": "^2.3.7",
     "reselect": "^3.0.1",
     "rpc-cap": "^3.2.1",
     "safe-event-emitter": "^1.0.1",
